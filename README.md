@@ -35,6 +35,12 @@ I believe technology can create real impact — let's build something amazing to
 - MySQL  
 - SQL Server  
 
+### **Tools & Technologies**
+- Git & GitHub
+- Docker 🐳
+- Linux & WSL 🐧
+- Semantic Commits
+  
 ---
 
 ## 🌐 Socials
