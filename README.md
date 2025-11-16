@@ -7,7 +7,8 @@
 ➡️  *[Site](https://gabriel-pinheiro.vercel.app/)*
 
 ✉️  You can contact me at  
-📩  gabrielpsantana@exemplo.com
+📩  gabrieldevti@gmail.com  
+📞  (75) 99943-7100
 
 🚀  I'm currently working at **Healthbit**
 
