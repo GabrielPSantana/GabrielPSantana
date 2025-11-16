@@ -37,6 +37,7 @@ I believe technology can create real impact — let's build something amazing to
 
 ### **Tools & Technologies**
 - Git & GitHub
+- Git Flow
 - Docker 🐳
 - Linux & WSL 🐧
 - Semantic Commits
