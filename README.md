@@ -21,6 +21,7 @@ I believe technology can create real impact — let's build something amazing to
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -46,15 +47,3 @@ I believe technology can create real impact — let's build something amazing to
 
 ## 🌐 Socials
 - *LinkedIn*: [Gabriel Pinheiro](https://www.linkedin.com/in/gabriel-pinheiro-a20361165/)
-
----
-
-## 🏅 Badges & Stats
-
-### 📊 My GitHub Stats  
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPSantana&show_icons=true&theme=transparent)
-
-### 🔥 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPSantana&layout=compact&theme=transparent)
-
----
